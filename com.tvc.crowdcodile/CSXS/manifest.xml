@@ -9,7 +9,7 @@
             <!-- Uncomment tags according to the apps you want your panel to support -->
 
             <!-- AfterEffects -->
-            <Host Name="AEFT" Version="[13.0,13.9]" />
+            <Host Name="AEFT" Version="[13.0,15.0]" />
 
 		</HostList>
 		<LocaleList>
